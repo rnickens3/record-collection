@@ -1,2 +1,4 @@
 # record-collection
-Add and remove properties in a record collection. Uses push method and arrays.
+This contains a function that
+* Updates a record collection object
+* Uses bracket notation to identify properties

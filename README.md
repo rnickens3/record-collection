@@ -9,5 +9,5 @@
 2. The user should be able to add and remove properties
 3. The result will display in a message
 
-## What I Learned:
+## What I Learned
 This project tested my ability to create a function with several statements that adjusts properties of an object. This could be done with bracket or dot notation. I chose to do so with brackets. 
